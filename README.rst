@@ -1,4 +1,4 @@
-Bayesian Generalised Lomb-Scargle periodogram
+Bayesian Generalized Lomb-Scargle periodogram
 =============================================
 
 The Lomb-Scargle periodogram was developed by Lomb [Lomb76]_ and further extended
@@ -6,7 +6,7 @@ by Scargle [Scargle82]_ to find, and test the significance of weak periodic sign
 with uneven temporal sampling.
 
 This repository implements the method described in Mortier et al. (2014)
-[ArXiv]_, that is a Bayesian formalism for the generalized Lomb-Scargle
+[Mortier14]_, that is a Bayesian formalism for the generalized Lomb-Scargle
 periodogram.
 
 
@@ -26,7 +26,7 @@ Reference
                Statistical aspects of spectral analysis of unevenly spaced data",
                The Astrophysical Journal, vol 263, pp. 835-853, 1982
 
-.. [ArXiv] Mortier et al., 2014, http://arxiv.org/abs/1412.0467
+.. [Mortier14] Mortier et al., 2014, http://arxiv.org/abs/1412.0467
 
 
 
