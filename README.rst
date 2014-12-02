@@ -2,7 +2,7 @@ Bayesian Generalised Lomb-Scargle periodogram
 =============================================
 
 The Lomb-Scargle periodogram was developed by Lomb [Lomb76]_ and further extended
-by Scargle [Scargle82] to find, and test the significance of weak periodic signals
+by Scargle [Scargle82]_ to find, and test the significance of weak periodic signals
 with uneven temporal sampling.
 
 This repository implements the method described in Mortier et al. (2014)
